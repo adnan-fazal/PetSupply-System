@@ -1,0 +1,2 @@
+username: cashier
+password: cashier123
